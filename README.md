@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhamMinhTrietHCMUS
-- 👀 I’m interested in gacha games
+- 👀 I’m interested in gacha games(Genshin Impact, Honkai Star Rail, ...)
 - 🌱 I’m currently learning C/C++ and computer programming
 - 💞️ I’m looking to collaborate on every aspects
 - 📫 How to reach me 23127132@student.hcmus.edu.vn (outlook), pmtriet23@clc.fitus.edu.vn (gmail)
